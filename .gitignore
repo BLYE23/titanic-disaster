@@ -1,0 +1,17 @@
+# Data downloaded from Kaggle (keep only the empty folder)
+src/data/*
+!src/data/.gitkeep
+
+# Virtual environments
+.venv/
+venv/
+
+# Hidden and system files
+.DS_Store
+Thumbs.db
+__pycache__/
+.Rhistory
+.RData
+.Rproj.user/
+.idea/
+.vscode/
